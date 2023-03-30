@@ -4,7 +4,11 @@ A collection of small, usually single-purpose scripts, notebooks, etc. that may 
 
 
 ## Contents
+### Scripts
+- [Notify.py](scripts/notify) - log via Slack
 
+### Notebooks
+ - [WPRDC Exploration](notebooks/wprdc_exploration) - summary view of our CKAN datasets
 
 
 ## Adding an entry
