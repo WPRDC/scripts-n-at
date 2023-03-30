@@ -6,7 +6,8 @@ def send_to_slack(message):
 
     import os, json, requests
     import socket
-    from parameters.remote_parameters import webhook_url
+    
+    webhook_url = # SET THIS
 
     IP_address = socket.gethostbyname(socket.gethostname())
     name_of_current_script = os.path.basename(__file__)
